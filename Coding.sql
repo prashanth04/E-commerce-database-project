@@ -281,7 +281,6 @@ JOIN Shopping_Cart sc ON p.product_id = sc.product_id
 GROUP BY p.product_id, p.product_name
 ORDER BY total_quantity_sold DESC;
 
-
 ---The end
 
 
