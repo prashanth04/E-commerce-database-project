@@ -282,4 +282,6 @@ GROUP BY p.product_id, p.product_name
 ORDER BY total_quantity_sold DESC;
 
 
+---The end
+
 
